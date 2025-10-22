@@ -1,4 +1,4 @@
-An external ESP for Assault Cube
+An external ESP cheat for Assault Cube
 
 <img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/74801027-b032-44a5-a5e9-847405d19a15" />
 
