@@ -23,7 +23,9 @@
 - ``uint32_t player = dwEntityList + (PLAYER_COUNT_INDEX * 0x4);`` 
 - ``uint32_t playerName = player + 0x205;``
 - ``uint32_t playerHealth = player + 0xEC;``
-- ``uint32_t playerPosition = player + 0x2C;``
+- ``uint32_t playerPosX = player + 0x28;
+		uint32_t playerPosY = player + 0x2C;
+		uint32_t playerPosZ = player + 0x30;`` 
 - ``uint32_t isDead = player + 0x0318;``
 
 # Note
