@@ -30,6 +30,7 @@
 
 # Note
 **Only supports Windows OS**
+
 **Only works in Windowed mode** 
 
 Last testing date: January 18th, 2025. 
