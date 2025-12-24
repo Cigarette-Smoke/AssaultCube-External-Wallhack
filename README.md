@@ -29,7 +29,8 @@
 - ``uint32_t isDead = player + 0x0318;``
 
 # Note
-**Only works on Windows OS**
+**Only supports Windows OS**
+**Only works in Windowed mode** 
 
 Last testing date: January 18th, 2025. 
 Game Build: v1.3.0.2
